@@ -388,7 +388,7 @@ footer {
 
 /*MEDIA QUERIES*/
 
-@media screen and (min-width: 480px) and (max-width: 767px){
+@media screen and (min-width: 100px) and (max-width: 767px){
     
 	    .col-s-1 {width: 8.33%;}
 	    .col-s-2 {width: 16.66%;}
@@ -547,5 +547,6 @@ footer {
 		display: block;
 	}
 
+	
 
 }
