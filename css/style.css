@@ -66,6 +66,7 @@ header>nav>ul>li {
  header>nav>img {
  	padding: 20px 0;
  	float: left;
+ 	/*background: url(logo.png)  0/cover no-repeat; */
  }
  
  header>nav>ul>li>a:hover {
@@ -404,7 +405,6 @@ footer {
 	    .col-s-12 {width: 100%;}
 
 	.container {
-		width: 100%;
 		max-width: 1200px;
 		margin: auto;
 	}
@@ -437,15 +437,17 @@ footer {
 		float: none;
 		position: static;
 		display: block;
+		width: 250px;
+		height: 75px;
 	}
 	header>nav>ul>li>a {
 		font-size: 20px;
 		padding: 5px;
-
-
+	}
+	.slogan {
+		width: 300px;
 
 	}
-
 	header>nav>ul>li>a:hover {
 	 	color: #ffffff;
 	 }
