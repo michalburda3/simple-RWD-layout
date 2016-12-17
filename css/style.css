@@ -483,13 +483,11 @@ footer {
 		opacity: 0;
 
 	}
+	
 	.atitle {
 		text-align: center;
 	}
 
-	.margincol>div {
-		margin: -20px;
-		}
 	.awpic {
 		margin: 0 auto;
 		float: none;
